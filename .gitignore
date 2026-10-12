@@ -1,0 +1,7 @@
+__pycache__/
+*.xls
+*.xlsx
+*.pkl
+.DS_Store
+# never commit real grade matrices
+data/real_*

@@ -1,0 +1,67 @@
+{
+  "enrollments": 1929,
+  "students": 317,
+  "subjects": 62,
+  "levels": 10,
+  "pass_rate_pct": 93.7,
+  "mean_final_grade": 7.71,
+  "failed_enrollments": 121,
+  "students_with_a_fail": 54,
+  "students_with_a_fail_pct": 17.0,
+  "repeating_students": 21,
+  "repeat_enrollments": 26,
+  "repeaters_failing_again": 8,
+  "formula_checked_enrollments": 1597,
+  "formula_match_pct": 99.4,
+  "cut1_below7_n": 377,
+  "fail_rate_if_cut1_below7_pct": 24.9,
+  "fail_rate_if_cut1_ok_pct": 1.7,
+  "corr_cut1_final": 0.73,
+  "corr_attendance_final": 0.66,
+  "no_final_exam_enrollments": 80,
+  "no_final_exam_students": 27,
+  "failed_without_final_exam": 71,
+  "share_of_fails_without_final_exam_pct": 58.7,
+  "top_subjects": {
+    "Linear Algebra": {
+      "enrolled": 35,
+      "failed": 18,
+      "fail_rate_pct": 51.4
+    },
+    "Heat & Surface Treatments": {
+      "enrolled": 22,
+      "failed": 5,
+      "fail_rate_pct": 22.7
+    },
+    "Differential Calculus": {
+      "enrolled": 37,
+      "failed": 7,
+      "fail_rate_pct": 18.9
+    },
+    "Pneumatics & Hydraulics": {
+      "enrolled": 22,
+      "failed": 3,
+      "fail_rate_pct": 13.6
+    },
+    "Metrology & Instrumentation": {
+      "enrolled": 22,
+      "failed": 3,
+      "fail_rate_pct": 13.6
+    },
+    "Physics": {
+      "enrolled": 37,
+      "failed": 5,
+      "fail_rate_pct": 13.5
+    },
+    "Computing Fundamentals": {
+      "enrolled": 38,
+      "failed": 5,
+      "fail_rate_pct": 13.2
+    },
+    "Adv. Mechanics of Materials": {
+      "enrolled": 26,
+      "failed": 3,
+      "fail_rate_pct": 11.5
+    }
+  }
+}
