@@ -21,7 +21,7 @@ A coordinator in charge of academic tutoring needs, each period, a clear picture
 | Granularity | One row per student–course enrollment |
 | Fields | Subject, level, section, partial 1, partial 2, final exam, attendance (%), final grade, enrollment number (1st, 2nd, 3rd time) |
 | Grading rule | Final grade = **35 %** partial 1 + **35 %** partial 2 + **30 %** final exam; **pass ≥ 7 / 10** |
-| Validation | The formula reproduces the recorded final grade in **99.4 %** of the 1,597 enrollments that follow the standard path (|difference| < 0.02), so the grade columns are internally consistent |
+| Validation | The formula reproduces the recorded final grade in **99.4 %** of the 1,597 enrollments that follow the standard path (absolute difference below 0.02), so the grade columns are internally consistent |
 | Repeat enrollments | 26 enrollments (21 students) were 2nd or 3rd attempts; these were treated as at-risk by definition |
 
 ## 3. Key findings
